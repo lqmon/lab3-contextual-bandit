@@ -1,9 +1,9 @@
 # Lab 3: Contextual Bandit-Based News Article Recommendation System
 
 **Course:** Reinforcement Learning Fundamentals  
-**Student Name:** *(fill in)*  
+**Student Name:** Puneet Madan  
 **Roll Number:** U20230120  
-**GitHub Branch:** `firstname_U20230120`
+**GitHub Branch:** `puneet_U20230120`
 
 ---
 
